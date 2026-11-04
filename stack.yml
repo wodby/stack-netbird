@@ -1,0 +1,11 @@
+name: netbird
+title: NetBird
+icon: netbird
+docs: https://wodby.com/docs/2.0/stacks/catalog/netbird/
+
+services:
+- name: netbird
+  title: NetBird
+  service: netbird
+  required: true
+  main: true
