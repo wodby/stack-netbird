@@ -1,6 +1,7 @@
 name: netbird
 title: NetBird
 icon: netbird
+category: networking
 docs: https://wodby.com/docs/2.0/stacks/catalog/netbird/
 
 services:
